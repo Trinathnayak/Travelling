@@ -1,0 +1,29 @@
+@import url("https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css");
+@import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+input {
+  width: 300px !important;
+}
+.form-group {
+  text-align: left;
+}
+
+.o{
+  font-family: cursive;
+  background-color: skyblue;
+  border-radius: 20px;
+}
+.background
+{
+  background-image: 
+  url(https://img.freepik.com/free-photo/female-tourists-hand-have-happy-travel-map_1150-7411.jpg?w=2000);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: right;
+  background-attachment: scroll;
+  border-radius: 10px;
+}
+/*.text-left 
+{
+ font-size: 20px;
+}*/
